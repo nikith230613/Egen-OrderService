@@ -1,0 +1,8 @@
+
+1. Image creation steps
+1.1 Build image
+        docker build -t order-service . (Note : docker should be installed in your machine)
+1.2 Run Image
+        docker run -d order-service
+
+
